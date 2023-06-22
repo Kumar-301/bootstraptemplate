@@ -1,0 +1,40 @@
+.bearish-img{
+    height: 30px;
+    width:30px;
+}
+p,h1,h2,h3,h4,h5,h6{
+    margin-bottom:0 !important;
+}
+.nifty-border{
+    border-bottom:1px solid #dee2e6;
+    
+}
+.nifty-heading{
+    font-size:20px;
+}
+.bearish-box{
+    background-color: #dee2e6;
+    padding:5px 16px 5px 5px; 
+    border-radius: 5px;
+}
+.bearish-heading{
+    color: gray;
+    font-weight: 600;
+    font-size:22px;
+}
+.trends{
+    font-weight: 600;
+}
+.img-box1{
+    background-color: pink;
+    margin-right: 15px;
+    padding: 3px;
+}
+.img-box2{
+    background-color: lightgreen;
+    margin-right: 15px;
+    padding: 3px;
+}
+.arrow-img{
+    opacity: 0.4;
+}
